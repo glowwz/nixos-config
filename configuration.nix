@@ -81,6 +81,7 @@
 
   programs.niri-caelestia-shell = {
     enable = true;
+    niri.installConfig = true;
 
     systemd = {
       enable = true;
