@@ -46,7 +46,7 @@
   programs.git = {
     enable = true;
     settings.user.name = "glowwz";
-    settings.user.email = "aaron0xc1@gmail.com";
+    settings.user.email = "[REDACTED]";
     signing.format = null;
   };
 
